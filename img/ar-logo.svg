@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="649px" height="316px" viewBox="0 0 649 316" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.0.3 (7891) - http://www.bohemiancoding.com/sketch -->
+    <title>ar-logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="ar-logo" sketch:type="MSLayerGroup" fill="#8B8B8B">
+            <path d="M316,158 C316,70.7390095 245.26099,0 158,0 C70.7390095,0 0,70.7390095 0,158 C0,245.26099 70.7390095,316 158,316 L158,267.998883 C97.754831,267.729551 49,218.808426 49,158.5 C49,98.0248199 98.0248199,49 158.5,49 C218.808426,49 267.729551,97.754831 267.998883,158 L316,158 L316,158 Z M268,158 L268,316 L316,316 L316,158 L268,158 Z M158,268 L158,316 L206,316 L206,268 L158,268 Z" id="a" sketch:type="MSShapeGroup"></path>
+            <path d="M648.298408,65.7652414 C619.612429,25.9333018 572.834738,0 520,0 C432.73901,0 362,70.7390095 362,158 L410.001117,158 C410.270449,97.754831 459.191574,49 519.5,49 C557.089818,49 590.255736,67.9409652 609.974339,96.7994607 L648.298408,65.7652414 Z M410,158 L410,316 L362,316 L362,158 L410,158 Z" id="r" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>
