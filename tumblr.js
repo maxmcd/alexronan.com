@@ -1,7 +1,7 @@
 var loc,
     api_key = "I6qPBdMFPuu0xsHTeqSEzSlJ1MMj5BQWncdN93MMpNiXLEPuLO",
     api_endpoint =
-        "http://api.tumblr.com/v2/blog/allthisstuffrighthere.tumblr.com/posts/?cb=" +
+        "//api.tumblr.com/v2/blog/allthisstuffrighthere.tumblr.com/posts/?cb=" +
         Math.random() + "&",
     loading_additional = false,
     click_time = 0;
